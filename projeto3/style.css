@@ -41,7 +41,7 @@ a {
     padding: 1rem 4rem;
     border: 1px solid #ffffff;
     min-width: 4rem;
-    display: flex;
+  /*  display: flex; */
     justify-content: center;
     align-items: center;
     transition: .5s cubic-bezier(0.55, 0.025, 0.0675, 0.97);
